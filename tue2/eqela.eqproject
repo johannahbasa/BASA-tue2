@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tue2
+#
+
+projectname: tue2
+vendorid: com.johannahbasa.example
+mainmodule: com.johannahbasa.example.tue2
